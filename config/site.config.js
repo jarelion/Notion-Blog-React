@@ -3,15 +3,15 @@
 module.exports = {
     global: {
         author: {
-            name: 'Harry Yep',
-            github: 'https://github.com/Harry-Yep/Notion-Blog-React',
-            email: 'hi@harrly.com',
-            privacy_policy: 'https://www.harrly.com/privacy-policy',
+            name: 'jare.me',
+            github: '',
+            email: '',
+            privacy_policy: '',
         },
         site: {
-            name: 'Notion Blog React Example',
-            description: 'Blog built with Notion, React, Next.js, tailwindcss, TypeScript, Notion-Api-Worker and more.',
-            url: 'https://react-notion-blog.demo.harisfox.com/',
+            name: 'jare.me',
+            description: 'old school blog, new tech',
+            url: 'https://jare.me/,
             banner_img: `https://cdn.harrly.com/project/GitHub/Notion-Blog-React/img/Notion-Blog-React.Banner.png`,
             language: [
                 { name: 'British English', code: 'en-GB' },
